@@ -1,5 +1,5 @@
-class Vim < Formula
-  desc "Vi 'workalike' with many additional features"
+class Vimpython2 < Formula
+  desc "Vi 'workalike' with many additional features with python@2 support"
   homepage "https://www.vim.org/"
   # vim should only be updated every 50 releases on multiples of 50
   url "https://github.com/vim/vim/archive/v8.1.0850.tar.gz"
